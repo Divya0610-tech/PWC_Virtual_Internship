@@ -90,5 +90,6 @@ Performance Ratings: Men received consistently higher performance ratings than w
 Job Type: Among full-time staff, 293 were men and 172 were women. In contrast, contract staff included 2 men and 33 women, indicating a clear gender inequality in terms of job security and job type.
 
 #Certification
-![image](https://github.com/user-attachments/assets/3ac0b613-ba41-4bc2-b9aa-270e93db5588)
+![image](https://github.com/user-attachments/assets/fc547ca4-6147-4453-9d36-a8d161a00983)
+
 
