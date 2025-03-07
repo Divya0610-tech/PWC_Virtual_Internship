@@ -74,6 +74,18 @@ What is the distribution of employees by job type (full-time vs. contract)?
 
 What is the overall turnover rate, and what does it indicate about the organization’s retention strategies?
 
+![image](https://github.com/user-attachments/assets/f25adeec-5ada-49e5-ace2-395dc3afd03d)
 
 
+Key Insights:
+
+Total Employees: The organization currently has a workforce of 500 employees, consisting of 295 men and 205 women. Over the past year, 47 employees have left the company.
+
+Hires: Women made up 51.5% of the new hires, while men accounted for 48.5%. Notably, more younger women were hired in the age ranges of 20–29 and 40–49, whereas men were predominantly hired in the 30–39 and 50–69 age brackets.
+
+Promotions: A total of 10.2% of the employees were promoted, with men representing 6.6% and women 3.6%. This suggests a potential disparity in promotion opportunities between genders.
+
+Performance Ratings: Men received consistently higher performance ratings than women, suggesting the possibility of an imbalance or bias in the evaluation process.
+
+Job Type: Among full-time staff, 293 were men and 172 were women. In contrast, contract staff included 2 men and 33 women, indicating a clear gender inequality in terms of job security and job type.
 
